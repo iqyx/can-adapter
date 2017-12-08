@@ -1,0 +1,16 @@
+# Eagle backup and lock files files
+*.s#?
+*.b#?
+*.l#?
+*.lck
+
+# Compiled code
+*.o
+*.d
+*.elf
+*.bin
+*.map
+
+# Generated protobuf code
+*.pb.h
+*.pb.c
